@@ -39,5 +39,5 @@ Aqui podras agregar mas metodos que te ayuden a resolver el problema de tu siste
 
 
 ### Funcionamiento `index.php`
-Todo comienza del archivo `index.php` donde se declara constante del sistema basica como: Version, Url publica, Ruta del sistema, Carpeta Base del sistema. Si todo esta entendible hasta aquí, continuemos...
+Todo comienza del archivo `index.php` donde se declara constante del sistema basica como: Version, Url publica, Ruta del sistema, Carpeta Base del sistema. Si todo esta entendible hasta aquí, continuemos... (documentación en proceso....)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
